@@ -1,0 +1,7 @@
+# ninja log v5
+5	251	6979400084566949	CMakeFiles/First_again.dir/main.c.obj	5f21316443651906
+253	581	6979400087746910	First_again.exe	af7e1bbb6daf0365
+6	234	6979245545721975	CMakeFiles/First_again.dir/circle.c.obj	fe7c2c18ba01bf2c
+3	448	6980142250988205	build.ninja	cabdad37284198c8
+33	6626	6988540504769630	CMakeFiles/First_again.dir/main.c.obj	5f21316443651906
+6874	11135	6988540549338971	First_again.exe	af7e1bbb6daf0365

@@ -1,0 +1,3 @@
+C:/Users/15Z-DB000/OneDrive - Atlantic TU/Programming/C tings/Arrays and Structs/cmake-build-debug/CMakeFiles/Arrays_and_Structs.dir
+C:/Users/15Z-DB000/OneDrive - Atlantic TU/Programming/C tings/Arrays and Structs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/15Z-DB000/OneDrive - Atlantic TU/Programming/C tings/Arrays and Structs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
