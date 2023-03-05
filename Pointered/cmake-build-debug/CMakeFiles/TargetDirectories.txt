@@ -1,0 +1,3 @@
+C:/Users/15Z-DB000/OneDrive - Atlantic TU/Programming/C tings/Pointered/cmake-build-debug/CMakeFiles/Pointered.dir
+C:/Users/15Z-DB000/OneDrive - Atlantic TU/Programming/C tings/Pointered/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/15Z-DB000/OneDrive - Atlantic TU/Programming/C tings/Pointered/cmake-build-debug/CMakeFiles/rebuild_cache.dir
